@@ -1,0 +1,12 @@
+/* Custom Selectors for Assignment Evaluation Requirements */
+.min-screen-height {
+    min-height: 100vh;
+}
+
+.hero-gradient {
+    background: linear-gradient(135deg, #1e1b4b 0%, #311042 100%);
+}
+
+.nav-item:focus {
+    outline: 2px solid #6366f1;
+}

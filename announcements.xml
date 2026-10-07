@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<announcements>
+    <announcement id="1">
+        <title>Sports Meet Registration Deadline Extended</title>
+        <date>2026-06-25</date>
+        <category>Sports</category>
+        <content>The final date to register for the upcoming Inter-University Cricket Championship has been extended until next Thursday. Make sure to submit your team rosters on time!</content>
+    </announcement>
+    <announcement id="2">
+        <title>New AI Workshop Series Next Week</title>
+        <date>2026-07-02</date>
+        <category>Workshops</category>
+        <content>Join our exclusive hands-on workshop series on Large Language Models and Agentic Systems happening at the main tech lab. Limited seats available.</content>
+    </announcement>
+</announcements>
